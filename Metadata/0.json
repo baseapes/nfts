@@ -2,27 +2,27 @@
     "name": "Base Apes #0",
     "description": "The only Apes on base!",
     "external_url": "https://www.baseapes.club",
-    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/tree/main/Metadata/newbapes/0.png",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/NFTs/newbapes/0.png",
     "attributes": [
         {
             "trait_type": "colors",
-            "value": "Instagram post - 80"
+            "value": "Instagram post - 5"
         },
         {
             "trait_type": "bodies",
-            "value": "15"
+            "value": "12"
         },
         {
             "trait_type": "clothes",
-            "value": "Cloud-1"
+            "value": "Motoko SAC 2045 1-1"
         },
         {
             "trait_type": "neck",
-            "value": "none"
+            "value": "Rockstar-2"
         },
         {
             "trait_type": "head",
-            "value": "Skeleton Ape - 373 - 2"
+            "value": "None"
         },
         {
             "trait_type": "facial hair",
@@ -34,7 +34,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Robber-2"
+            "value": "C 17-1"
         },
         {
             "trait_type": "mouth",
@@ -42,7 +42,7 @@
         },
         {
             "trait_type": "lower",
-            "value": "Cleaner-3"
+            "value": "None"
         }
     ]
 }
