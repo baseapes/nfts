@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #2605",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/3/2605.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "43"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "21"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Jaskier-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 420-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Luna Lovegood-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "John Wick-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #8677",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/9/8677.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "26"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "2"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "C 28-3"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Aerosmith-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Scientist-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "none"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Gangster-3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Athrun 6"
+        }
+    ]
+}

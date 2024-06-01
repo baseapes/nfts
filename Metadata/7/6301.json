@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #6301",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/7/6301.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "20"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "21"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Dumbledore-2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Gangster-5"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
