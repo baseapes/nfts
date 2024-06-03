@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #141433",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/142/141433.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "4"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "20"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - lux"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Rapunzel-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "none"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Skeleton Ape - Ada 2"
+        }
+    ]
+}

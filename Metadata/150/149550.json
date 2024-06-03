@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #149550",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/150/149550.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "47"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "1"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Scully-2-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Cinderella-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "none"
+        },
+        {
+            "trait_type": "head",
+            "value": "Skeleton Ape - Buzz 2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 5-4"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "lara croft-6"
+        }
+    ]
+}

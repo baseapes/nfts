@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #141628",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/142/141628.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "11"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "5"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Keion-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Akn-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Johnny Bravo-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "C 28-6"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

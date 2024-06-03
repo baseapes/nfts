@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #148604",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/149/148604.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "43"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "20"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Ikaris-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 420-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Skeleton Ape - Harry 3"
+        },
+        {
+            "trait_type": "head",
+            "value": "Bato-3"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 3-1"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
