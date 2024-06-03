@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #11926",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/12/11926.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "12"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "14"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "C 19-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3d monkey-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "lara croft-5"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 46-1"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Skeleton Ape - Kobe 3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

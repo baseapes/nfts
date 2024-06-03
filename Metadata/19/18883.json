@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #18883",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/19/18883.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "40"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "8"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Vegeta 2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 387-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Johnny Bravo-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "Vincent Valentine-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Sanji 3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "John Wick-5"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "John Wick-6"
+        }
+    ]
+}

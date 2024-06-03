@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #10336",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/11/10336.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "13"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "14"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - vi"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - Draco 3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Aerosmith-4"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 18-1"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
