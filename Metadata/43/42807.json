@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #42807",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/43/42807.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "33"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "8"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Marilyn Monroe-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Mayor Secretary-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Shinn 1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 29-2"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

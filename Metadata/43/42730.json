@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #42730",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/43/42730.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "29"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "10"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - jinx"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 420-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Akatsuki Tobi-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Skeleton Ape - Tsukki 4"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

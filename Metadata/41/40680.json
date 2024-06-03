@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #40680",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/41/40680.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "38"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "20"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Chef 1-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - Draco 3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Zorro-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "McGonagall-3"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 8-3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "John Wick-5"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

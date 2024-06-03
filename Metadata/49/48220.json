@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #48220",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/49/48220.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "42"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "17"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "C 49-2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 363 - 2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "none"
+        },
+        {
+            "trait_type": "head",
+            "value": "Robber-3"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Gangster-3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Jafaar-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
