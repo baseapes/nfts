@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #12603",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/13/12603.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "40"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "14"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Buttercup-2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Trunks-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "John Wick-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Skeleton Ape - 398-3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
