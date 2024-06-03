@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #102923",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/103/102923.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "24"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "19"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "C 29-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 360 -2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Johnny Bravo-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "C 76-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Akn-4"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
