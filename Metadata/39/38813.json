@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #38813",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/39/38813.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "25"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "2"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Leni-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Daphne-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Prince Cinderella-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rasta-2"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "lara croft-6"
+        }
+    ]
+}

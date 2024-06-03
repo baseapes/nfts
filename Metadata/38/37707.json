@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #37707",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/38/37707.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "38"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "7"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - Kobe 1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Rockstar-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Mayor Mayor-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "Bulma 1-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Sanji 3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #37031",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/38/37031.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "15"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "11"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Ranma boy-3"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "C 61-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "Skeleton Ape - 382-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Dumbledore-5"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

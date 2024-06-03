@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #30643",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/31/30643.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "13"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "19"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - Leon 1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Inu Yasha-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Keion Mugi-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 27-1"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Ralph-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Akn-4"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

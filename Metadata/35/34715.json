@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #34715",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/35/34715.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "7"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "8"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Office Worker 1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Pocahontas-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Hercules-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Skeleton Ape - Draco 5"
+        }
+    ]
+}

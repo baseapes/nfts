@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #35270",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/36/35270.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "41"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "7"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Mr. Darcy-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Aerosmith-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Skeleton Ape - 384-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "White Queen-3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

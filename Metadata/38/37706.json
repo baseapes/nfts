@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #37706",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/38/37706.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "5"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "8"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Jeanne-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Tobacco-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Skeleton Ape - 431-1"
+        },
+        {
+            "trait_type": "head",
+            "value": "none"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Skeleton Ape - Leon 2"
+        }
+    ]
+}
