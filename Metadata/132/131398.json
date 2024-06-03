@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #131398",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/132/131398.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "4"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "18"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Doraemon-1"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "C-2-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "Cop 1-4"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rasta-2"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Dumbledore-5"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

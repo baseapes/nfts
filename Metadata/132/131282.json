@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #131282",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/132/131282.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "46"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "16"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Bulma 1-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 387-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Police hat w chain gold-4"
+        },
+        {
+            "trait_type": "head",
+            "value": "Skeleton Ape - Clown 2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 5-4"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Keion Mugi-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "C-2-2"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

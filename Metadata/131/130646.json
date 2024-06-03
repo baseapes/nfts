@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #130646",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/131/130646.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "37"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "7"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - Buzz 1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Inu Yasha-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Skeleton Ape - 396-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Skeleton Ape - 404-3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

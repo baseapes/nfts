@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #132922",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/133/132922.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "26"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "9"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Cinderella-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Akn-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "C 5-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "Sirius-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Gangster-3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Dumbledore-5"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
