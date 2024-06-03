@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #112083",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/113/112083.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "2"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "12"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "McGonagall-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Luna Lovegood-3"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "C-2-2"
+        },
+        {
+            "trait_type": "lower",
+            "value": "goldeneye"
+        }
+    ]
+}
