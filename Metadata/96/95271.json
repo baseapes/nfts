@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #95271",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/96/95271.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "40"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "9"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Mayor Mayor-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Inu Yasha-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "C 15-1"
+        },
+        {
+            "trait_type": "head",
+            "value": "Nami-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "none"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Sirius-4"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #95032",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/96/95032.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "28"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "5"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Bulma 2-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Skeleton Ape - 359 -2"
+        },
+        {
+            "trait_type": "head",
+            "value": "Prince Cinderella-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 8-3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

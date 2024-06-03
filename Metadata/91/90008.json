@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #90008",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/91/90008.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "41"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "4"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Akatsuki Hidan-2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Skeleton Ape - 431-1"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Skeleton Ape - 401-3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

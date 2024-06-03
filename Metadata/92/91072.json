@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #91072",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/92/91072.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "30"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "6"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Marilyn Monroe-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Skeleton Ape - 418-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rasta-2"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Dumbledore-5"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Skeleton Ape - 397-3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

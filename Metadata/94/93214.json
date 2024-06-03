@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #93214",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/94/93214.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "33"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "8"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Athrun 2-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Pocahontas-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Ranma boy-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Yakuza-3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
