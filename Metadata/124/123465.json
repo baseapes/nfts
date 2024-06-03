@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #123465",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/124/123465.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "17"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "10"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - Gintoki 1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "C 25-1"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "C 61-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "Mayor Mayor-4"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rasta-2"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

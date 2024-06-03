@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #124653",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/125/124653.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "35"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "13"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "C 47-3"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Aang-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Minato-6"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Skeleton Ape - Tsukki 4"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Ralph-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Skeleton Ape - 358 -3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

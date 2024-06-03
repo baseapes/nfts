@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #127328",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/128/127328.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "33"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "21"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Elsa 2-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "C 5-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "lara croft-5"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 10-5"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
