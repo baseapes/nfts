@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #21072",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/22/21072.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "36"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "4"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Aerith-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "3d monkey-1"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "C 14-1"
+        },
+        {
+            "trait_type": "head",
+            "value": "Cop 1-4"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "John Wick-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

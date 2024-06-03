@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #27786",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/28/27786.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "32"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "4"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Gangster-2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 360 -2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Ino-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 5-4"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Keion Mugi-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
