@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #56705",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/57/56705.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "23"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "5"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Athrun 3-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 389-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "C 15-1"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Dumbledore-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "White Queen-3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

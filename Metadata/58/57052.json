@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #57052",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/58/57052.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "15"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "14"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Waiter-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Mayor Secretary-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Skeleton Ape - 398-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Tobacco-3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Jafaar-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "White Queen-3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Leni-5"
+        }
+    ]
+}

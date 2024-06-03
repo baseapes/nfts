@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #55124",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/56/55124.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "7"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "20"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Waiter-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Skeleton Ape - 359 -2"
+        },
+        {
+            "trait_type": "head",
+            "value": "Dante-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Dumbledore-5"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "C 61-1"
+        }
+    ]
+}

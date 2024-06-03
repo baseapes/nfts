@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #57455",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/58/57455.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "24"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "16"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - ecco"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Stewardess-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3d monkey-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "Elsa 2-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rasta-2"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "C 81-2"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

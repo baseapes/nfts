@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #58963",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/59/58963.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "21"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "18"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Little Mermaid 2-3"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Pocahontas-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Luna Lovegood-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "C-2-2"
+        },
+        {
+            "trait_type": "lower",
+            "value": "lara croft-6"
+        }
+    ]
+}
