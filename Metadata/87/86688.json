@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #86688",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/87/86688.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "22"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "23"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Aerosmith-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Skeleton Ape - 405-4"
+        },
+        {
+            "trait_type": "head",
+            "value": "Mayor Mayor-4"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 25-4"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Skeleton Ape - 398-3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

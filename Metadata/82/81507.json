@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #81507",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/82/81507.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "22"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "22"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "C 22-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "3d monkey-1"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Scully-2-4"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Gangster-3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

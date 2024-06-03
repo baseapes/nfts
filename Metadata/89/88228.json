@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #88228",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/89/88228.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "30"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "22"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Prince Cinderella-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - Draco 3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Dumbledore-6"
+        },
+        {
+            "trait_type": "head",
+            "value": "Aviator-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 46-1"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Sirius-4"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Leni-5"
+        }
+    ]
+}

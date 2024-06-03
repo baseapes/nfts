@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #87552",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/88/87552.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "30"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "5"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - Draco 2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Kamina-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "Jasmine-3"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "none"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Rapunzel-4"
+        }
+    ]
+}
