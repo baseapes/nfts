@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #74099",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/75/74099.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "25"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "5"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Akn-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Police hat w chain gold-4"
+        },
+        {
+            "trait_type": "head",
+            "value": "Akatsuki Pain-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "John Wick-4"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Skeleton Ape - 398-3"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #79340",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/80/79340.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "17"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "17"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - Ada 1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Akatsuki Nagato-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Skeleton Ape - 376 - 2"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
