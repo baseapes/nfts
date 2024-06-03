@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #64662",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/65/64662.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "14"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "4"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Avril-1-2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Pocahontas-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Robber-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "Prince S ow White-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

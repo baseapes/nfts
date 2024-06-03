@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #62832",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/63/62832.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "30"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "2"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Rockstar-3"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Police hat w chain gold-4"
+        },
+        {
+            "trait_type": "head",
+            "value": "Shampoo-12"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
