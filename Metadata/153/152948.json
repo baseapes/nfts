@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #152948",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/153/152948.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "2"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "1"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - Draco 2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Tobacco-1"
+        },
+        {
+            "trait_type": "head",
+            "value": "Lacus-6"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 25-4"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Skeleton Ape - 376 - 2"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

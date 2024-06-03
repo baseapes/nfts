@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #159299",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/160/159299.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "30"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "19"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - Tsukki 3"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Waiter-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 29-2"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "John Wick-6"
+        }
+    ]
+}

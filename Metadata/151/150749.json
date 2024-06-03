@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #150749",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/151/150749.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "8"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "4"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Zoro 9"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Anya-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "C 3-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "Hagrid-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Delivery Boy-3"
+        }
+    ]
+}

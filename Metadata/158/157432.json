@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #157432",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/158/157432.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "5"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "12"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Doraemon-1"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Police hat w chain gold-4"
+        },
+        {
+            "trait_type": "head",
+            "value": "Yor 1-4"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
