@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #161324",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/162/161324.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "8"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "20"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Ino-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Mayor Mayor-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "Skeleton Ape - 361-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

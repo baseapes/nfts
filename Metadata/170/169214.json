@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #169214",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/170/169214.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "36"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "22"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Hairdresser-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Android 18-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Shinn 1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Skeleton Ape - 373 - 3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Skeleton Ape - Cupid 4"
+        }
+    ]
+}
