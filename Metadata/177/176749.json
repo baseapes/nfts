@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #176749",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/177/176749.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "5"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "15"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Dante-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Athrun 5-2"
+        },
+        {
+            "trait_type": "head",
+            "value": "Akatsuki Hidan-5"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 10-5"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

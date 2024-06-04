@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #179539",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/180/179539.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "27"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "11"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Skeleton Ape - Jordan 1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Athrun 4-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "C 81-2"
+        },
+        {
+            "trait_type": "lower",
+            "value": "Delivery Boy-3"
+        }
+    ]
+}

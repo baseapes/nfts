@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #175286",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/176/175286.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "17"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "7"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Ryuk-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Avril-1-1"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Keion Mio-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 18-1"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

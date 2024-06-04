@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #173461",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/174/173461.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "32"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "12"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Vanitas-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Zorro-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "Rapunzel-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
