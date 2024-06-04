@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #183018",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/184/183018.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "11"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "22"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Elsa 1-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Skeleton Ape - 362 - 2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Aviator-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "Android 18-4"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "Yakuza-1"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

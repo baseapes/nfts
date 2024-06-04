@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #185434",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/186/185434.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "26"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "17"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Pocahontas-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "C 73-1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "C 3-2"
+        },
+        {
+            "trait_type": "lower",
+            "value": "rubix"
+        }
+    ]
+}

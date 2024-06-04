@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #185170",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/186/185170.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "23"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "16"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Noe-2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Daphne-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Noe-3"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "C 10-5"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "C-1-2"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

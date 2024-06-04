@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #187518",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/188/187518.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "13"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "8"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Aang-2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Aerosmith-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Tobacco-3"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "none"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

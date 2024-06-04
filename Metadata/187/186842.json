@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #186842",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/187/186842.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "26"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "15"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Mayor Secretary-2"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Yor 1-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
