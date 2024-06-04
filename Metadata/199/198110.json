@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #198110",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/199/198110.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "21"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "5"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Ichigo-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "McGonagall-2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Office Worker 2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "John Wick-5"
+        },
+        {
+            "trait_type": "earing",
+            "value": "none"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}

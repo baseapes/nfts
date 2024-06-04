@@ -1,0 +1,48 @@
+{
+    "name": "Base Apes #198772",
+    "description": "The only Apes on base!",
+    "external_url": "https://www.baseapes.club",
+    "image": "https://raw.githubusercontent.com/BaseApes/NFTs/main/199/198772.png",
+    "attributes": [
+        {
+            "trait_type": "colors",
+            "value": "30"
+        },
+        {
+            "trait_type": "bodies",
+            "value": "19"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Gohan 1-1"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Tiana-3"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Zorro-3"
+        },
+        {
+            "trait_type": "head",
+            "value": "Skeleton Ape - 380-2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "facial hair",
+            "value": "Skeleton Ape - 405-3"
+        },
+        {
+            "trait_type": "earing",
+            "value": "None"
+        },
+        {
+            "trait_type": "lower",
+            "value": "None"
+        }
+    ]
+}
